@@ -1,0 +1,7 @@
+{
+  "name": "Mr Biker Pitstop",
+  "description": "Premium motorcycle accessories and riding gear retail store based in Dindigul, Tamil Nadu, offering helmets, jackets, and custom bike parts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
